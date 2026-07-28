@@ -1,0 +1,27 @@
+Sensitivity to r = C_ij / C_i\bar{j}
+========================================================================
+       r      sigma    Omegab*      Xicc*   Omegacc*   Omegaccc   Omegabbb
+  0.6667      4.494    6072.57    3699.92    3798.75    4799.28   14322.60
+  0.7500      2.889    6074.42    3701.57    3800.40    4811.85   14339.55
+  0.8000      2.223    6075.52    3702.55    3801.38    4819.38   14349.73
+  0.8500      2.078    6076.63    3703.54    3802.37    4826.92   14359.90
+  0.9000      2.544    6077.73    3704.53    3803.36    4834.46   14370.08
+  0.9500      3.378    6078.84    3705.51    3804.34    4842.00   14380.25
+  1.0000      4.374    6079.95    3706.50    3805.33    4849.53   14390.42
+
+Minimum sigma at r = 0.8500, sigma = 2.078 MeV
+
+At r=0.85, Table-II DeltaB+DeltaC (baryon rows):
+  Xi*                           theory=   0.751  EXP=   4.70  res=  3.949
+  Xic*                          theory=   0.751  EXP=   3.50  res=  2.749
+  Xic'                          theory=   0.751  EXP=   3.90  res=  3.149
+  Xic'-(Xi+Xicc)/2              theory= 109.484  EXP= 110.00  res=  0.516
+  Xib'                          theory=   0.751  EXP=   4.60  res=  3.849
+
+Shifts relative to r=0.85:
+  r=0.6667: dM(Omegab*)=-4.05, dM(Xicc*)=-3.62, dM(Omegaccc)=-27.64, sigma=4.494
+  r=0.7500: dM(Omegab*)=-2.21, dM(Xicc*)=-1.97, dM(Omegaccc)=-15.08, sigma=2.889
+  r=0.8000: dM(Omegab*)=-1.11, dM(Xicc*)=-0.99, dM(Omegaccc)=-7.54, sigma=2.223
+  r=0.9000: dM(Omegab*)=+1.11, dM(Xicc*)=+0.99, dM(Omegaccc)=+7.54, sigma=2.544
+  r=0.9500: dM(Omegab*)=+2.21, dM(Xicc*)=+1.97, dM(Omegaccc)=+15.08, sigma=3.378
+  r=1.0000: dM(Omegab*)=+3.32, dM(Xicc*)=+2.96, dM(Omegaccc)=+22.61, sigma=4.374

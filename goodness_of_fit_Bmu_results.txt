@@ -1,0 +1,23 @@
+Goodness of fit for B(mu) [Eq. (10)]
+================================================================
+Form: B = -45.5 + -1.3 (mu/200.0)^2 + -75.6 ln((mu/200.0)^2)
+Data: 6 effective bindings, 3 free parameters, dof = 3
+
+  ij       mu     B_data      B_fit   residual
+  ss    164.0      -40.6     -16.37     -24.23
+  cs    267.2      -76.0     -91.62      15.62
+  bs    305.6      -91.0    -112.64      21.64
+  cc    720.0     -258.9    -256.03      -2.87
+  bc   1089.7     -352.0    -340.43     -11.57
+  bb   2240.0     -566.8    -573.86       7.06
+
+SSR (sum of squared residuals) = 1491.36 MeV^2
+rms residual                   = 15.77 MeV
+R^2                            = 0.9928
+chi^2/dof (unit 1 MeV weights) = 497.12
+
+Note: the large unweighted chi^2/dof reflects O(10-25) MeV residuals
+in a simple three-parameter phenomenological form (especially in the
+light ss/cs/bs sector). R^2 ~ 0.99 shows that the overall concave
+trend vs reduced mass is well captured; the fit is used to motivate
+Jensen-like inequalities, not as a precision mass formula.
